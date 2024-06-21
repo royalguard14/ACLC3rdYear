@@ -1,0 +1,203 @@
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Form1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmautonumber.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmemployee.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmleave.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmLeaveAbsence.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmlistemployee.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmsettings.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmviewEmployee.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.LoginForm1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.manageuser.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Resources.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmprint_emp.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.pdb
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.xml
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.xml
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.pdb
+D:\sourcecodester\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.exe
+D:\sourcecodester\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.xml
+D:\sourcecodester\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.pdb
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.exe
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.xml
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.pdb
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.exe
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.pdb
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.xml
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Form1.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmautonumber.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmemployee.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmleave.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmLeaveAbsence.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmlistemployee.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmprint_emp.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmreports.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmsettings.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmviewEmployee.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.LoginForm1.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.manageuser.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Resources.resources
+D:\sourcecodester\system\Leave Monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.exe.config
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.exe
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.pdb
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.xml
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MySql.Data.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\System.Web.Services.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\FlashControlV71.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\stdole.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\bin\Debug\MySql.Data.xml
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Form1.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmautonumber.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmdepartment.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmEmpDepartment.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmemployee.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmleave.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmLeaveAbsence.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmlistemployee.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmprint_emp.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmreports.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmSearch.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmSearchList.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmsettings.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmviewEmployee.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.LoginForm1.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.manageuser.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Resources.resources
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.exe
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.xml
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.pdb
+C:\Users\Janobe\Downloads\leave_monitoring\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.frmPrints.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\MonitoringSystem.exe.config
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\MonitoringSystem.exe
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\MonitoringSystem.pdb
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\MonitoringSystem.xml
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\FlashControlV71.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\stdole.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\MySql.Data.xml
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.AssemblyReference.cache
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.Form1.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmautonumber.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmdepartment.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmEmpDepartment.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmemployee.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmleave.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmLeaveAbsence.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmlistemployee.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmPrints.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmprint_emp.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmreports.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmSearch.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmSearchList.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmsettings.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.frmviewEmployee.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.LoginForm1.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.manageuser.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.Resources.resources
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.GenerateResource.cache
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\Monitori.A0631E72.Up2Date
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.exe
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.xml
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\obj\Debug\MonitoringSystem.pdb
+C:\Users\Zhie\Desktop\New folder (2)\MonitoringSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\MonitoringSystem.exe.config
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\MonitoringSystem.exe
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\MonitoringSystem.pdb
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\MonitoringSystem.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\DotVVM.Contrib.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\DotVVM.Core.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\DotVVM.Framework.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\log4net.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\DotVVM.Core.pdb
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\DotVVM.Core.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\DotVVM.Framework.pdb
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\DotVVM.Framework.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\log4net.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.AssemblyReference.cache
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.empPrintDetail.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.Form1.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmautonumber.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmdepartment.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmEmpDepartment.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmemployee.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmleave.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmLeaveAbsence.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmlistemployee.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmPrints.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmreports.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmSearch.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmSearchList.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmsettings.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.frmviewEmployee.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.LoginForm1.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.manageuser.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.Resources.resources
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.GenerateResource.cache
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\Monitori.A0631E72.Up2Date
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.exe
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.xml
+C:\Users\Zhie\Desktop\Infoman proj\MonitoringSystem\obj\Debug\MonitoringSystem.pdb

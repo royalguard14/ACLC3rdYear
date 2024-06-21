@@ -1,0 +1,112 @@
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Load testing Act 1: HTML & CSS - Ghaizar Bautista</title>
+		<style type="text/css">
+			body {
+				font-family: Arial, sans-serif;
+				background-color: #f0f0f0;
+				margin: 0;
+				padding: 0;
+			}
+			.container {
+				display: grid;
+				/*gap: 5px;*/
+				margin: 14px;
+				grid-template-columns: 0.5fr 3fr  0.5fr;
+				grid-template-rows: 1fr 1fr 2fr 1fr; 
+				grid-template-areas: 
+				"blue yellow yellow"
+				"blue white red"
+				"green white red"
+				"green white red";
+			}
+			.blue { grid-area: blue; }
+			.yellow { grid-area: yellow; }
+			.green { grid-area: green; }
+			.white { grid-area: white; }
+			.red { grid-area: red; }
+			h1 {
+				text-align: center;
+				color: #333;
+				margin-bottom: 20px;
+			}
+			.info {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				margin-bottom: 10px;
+			}
+			.label {
+				flex: 1;
+				/*text-align: right;*/
+				margin-right: 10px;
+				color: #555;
+			}
+			.value {
+				flex: 2;
+			}
+			.border{
+				background-color: grey; 
+				font-weight: bold;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="blue" style="background-color: blue"><h1>LOAD TESTING</h1></div>
+			<div class="yellow" style="background-color: yellow"><h1>My Biography</h1></div>
+			<div class="green" style="background-color: green"></div>
+			<div class="white" style="background-color: white">
+				<div class="border" >Personal Info</div>
+				<div class="info">
+					<div class="label">Family name</div>
+					<div class="value">: Bautista</div>
+				</div>
+				<div class="info">
+					<div class="label">Given name</div>
+					<div class="value">: Ghaizar</div>
+				</div>
+				<div class="info">
+					<div class="label">Middle name</div>
+					<div class="value">: Atara</div>
+				</div>
+				<div class="info">
+					<div class="label">Birthdate</div>
+					<div class="value">: October 13, 1993</div>
+				</div>
+				<div class="info">
+					<div class="label">Birthplace</div>
+					<div class="value">: Metro Manila</div>
+				</div>
+				<div class="border" >Educational Background</div>
+				<div class="info">
+					<div class="label">Elementary School</div>
+					<div class="value">: Maharlika Elementary School</div>
+				</div>
+				<div class="info">
+					<div class="label">High School (Junior)</div>
+					<div class="value">: Taguig National High School</div>
+				</div>
+				<div class="info">
+					<div class="label">High School (Senior)</div>
+					<div class="value">: Taguig National High School</div>
+				</div>
+				<div class="info">
+					<div class="label">College</div>
+					<div class="value">:</div>
+				</div>
+				<div class="info">
+					<div class="label"></div>
+					<div class="value"> - Taguig City University</div>
+				</div>
+				<div class="info">
+					<div class="label"></div>
+					<div class="value"> - ACLC College of Butuan City</div>
+				</div>
+			</div>
+			<div class="red" style="background-color: red"></div>
+		</div>
+	</body>
+	</html>
+	

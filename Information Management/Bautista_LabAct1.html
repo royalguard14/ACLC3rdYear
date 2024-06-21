@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>InfoMan</title>
+    <style type="text/css">
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td{
+            border: 1px solid #dd0;
+            padding:  8px;
+            text-align: left;
+        }
+        th{
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <form id ="userinformation">
+        <label for="name">Name</label><br>
+        <input type="text" id="name" placeholder="ex: Bautista, Ghaizar A." ><br>
+        <label for="Address">Address</label><br>
+        <input type="text" id="address" placeholder="ex: Burgos St. Barangay Doongan, Butuan City, Agusan Del Norte, 8600" style="width: 80%"><br>
+        <button type="button" onclick="addUser()">Add taena!</button>
+        <button type="button" onclick="clearData()">Clear data</button>
+    </form>
+    <span style="color:red">* Please follow the format given</span>
+    <h2> User Info</h2>
+    <table id="userinfotable">
+        <thead>
+            <tr>
+                <th colspan="3" style="text-align: center;">PERSONAL INFORMATION</th>
+                <th colspan="6" style="text-align: center;">ADDRESS</th>
+            </tr>
+            <tr>
+                <th>Family Name</th>
+                <th>Given Name</th>
+                <th>Middle Name</th>
+                <th>House</th>
+                <th>Street</th>
+                <th>Brgy</th>
+                <th>City</th>
+                <th>Province</th>
+                <th>Zip Code</th>
+            </tr>
+        </thead>
+        <tbody id= "userinfoBody">
+        </tbody>
+    </table>
+    <script type="text/javascript">
+        function addUser(){
+
+            let name = document.getElementById('name').value;
+            let address = document.getElementById('address').value;
+
+
+            let nameParts = name.split(", ");
+            let lastName = nameParts[0].toLowerCase();
+
+            let firstAndMiddle = nameParts[1].split(" ");
+            let firstName = firstAndMiddle.slice(0, -1).join(" ").toLowerCase();
+            let middleInitial = firstAndMiddle[firstAndMiddle.length - 1];
+        
+            let house = "";
+            let street = "";
+            let barangay = "";
+            let city = "";
+            let province = "";
+            let zipCode = "";
+
+            let addressComponents = address.split(", ");
+            let streetAndBarangay = addressComponents[0].split(" ");
+            street = streetAndBarangay.shift(); 
+            barangay = streetAndBarangay.join(" ");
+            if (barangay.startsWith("St. ")) {
+                barangay = barangay.substring(4).trim();
+            }
+
+            if (barangay.startsWith("Barangay ")) {
+                barangay = barangay.substring(9).trim();
+            }
+
+            city = addressComponents[1].trim();
+            if (city.endsWith(" City")) {
+                city = city.substring(0, city.length - 5).trim();
+            }
+
+            province = addressComponents[2].trim();
+            zipCode = addressComponents[3].trim();
+
+
+            var userData = {
+                fName:lastName,
+                gName:firstName,
+                mName:middleInitial,
+                // house:houseAddress,
+                street:street,
+                brgy:barangay,
+                city:city,
+                province:province,
+                zipcode:zipCode,
+            }
+
+
+
+            var storedData = JSON.parse(sessionStorage.getItem('userData')) || [];
+            storedData.push(userData);
+            sessionStorage.setItem('userData', JSON.stringify(storedData));
+            document.getElementById('name').value = '';
+            document.getElementById('address').value = '';
+            updateTable();
+        }
+        function updateTable(){
+            var tableBody = document.getElementById('userinfoBody');
+            tableBody.innerHTML = '';
+            var storedData = JSON.parse(sessionStorage.getItem('userData')) || [];
+            storedData.forEach(function(user){
+                var row = tableBody.insertRow();
+                var fnameCell = row.insertCell(0);
+                var gnameCell = row.insertCell(1);
+                var mnameCell = row.insertCell(2);
+
+
+                var houseCell = row.insertCell(3);
+                var streetCell = row.insertCell(4);
+                var brgyCell = row.insertCell(5);
+                var cityCell = row.insertCell(6);
+                var provinceCell = row.insertCell(7);
+                var zipCell = row.insertCell(8);
+
+
+                fnameCell.textContent = user.fName;
+                gnameCell.textContent = user.gName;
+                mnameCell.textContent = user.mName;
+
+                houseCell.textContent = user.mName;
+                streetCell.textContent = user.street;
+                brgyCell.textContent = user.brgy;
+                cityCell.textContent = user.city;
+                provinceCell.textContent = user.province;
+                zipCell.textContent = user.zipcode;
+            });
+        }
+        updateTable();
+
+
+        function clearData(){
+            sessionStorage.removeItem('userData');
+            updateTable();
+        }
+
+    </script>
+</body>
+</html>
